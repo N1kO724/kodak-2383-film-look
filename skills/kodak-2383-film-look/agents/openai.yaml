@@ -1,0 +1,13 @@
+interface:
+  display_name: 2383 电影胶片实验室 · Film Print Lab
+  short_description: 固定像素版式、涂抹底板与乳剂边缘的2383胶片印相板
+  default_prompt: 使用 $kodak-2383-film-look 将我上传的照片制作成固定1086×1449版式的胶片印相板，严格锁定上下图尺寸，并使用取自原图的涂抹底色与参考级乳剂边缘。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
