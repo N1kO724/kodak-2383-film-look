@@ -1,4 +1,5 @@
 # Kodak 2383 Film Look Skill
+<img width="1086" height="1450" alt="71cf38043f0668a8355045743f735d45" src="https://github.com/user-attachments/assets/9e550a16-d8e0-4203-bbb1-dfa40d45da6c" />
 
 一个面向 ChatGPT、Codex 与兼容 Agent Skills 工具的视觉处理 Skill。它将用户照片制作成固定 **1086×1449 px** 的纵向胶片印相板：上方保留未经调色的原始裁切，下方使用 Image 2 生成 2383-inspired 电影印相效果，并通过确定性脚本锁定系列版式。
 
